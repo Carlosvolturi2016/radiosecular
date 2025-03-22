@@ -232,16 +232,54 @@ const musicas = [
 
 
   {
+    nome: "Joe Bonamassa - You Shook Me",
+    arquivo: "musicas/Dynamite Blues _ Joe Bonamassa - You Shook Me.mp3",
+    capa: "capa/joe.gif"
+  },
+
+  {
     nome: "Whitney Houston - Run To You",
     arquivo: "musicas/Whitney Houston - Run To You.mp3",
     capa: "capa/i.gif"
   },
 
+
   {
-    nome: "Future - Life Is Good ft. Drake",
-    arquivo: "musicas/Future - Life Is Good ft. Drake.mp3",
-    capa: "capa/future.gif"
+    nome: "Eric Clapton - I Was Fooled",
+    arquivo: "musicas/Eric Clapton - I Was Fooled.mp3",
+    capa: "capa/eric.gif"
   },
+  {
+    nome: "Eric Clapton - Take A Little Walk With Me",
+    arquivo: "musicas/Eric Clapton - Take A Little Walk With Me (Official Visualizer).mp3",
+    capa: "capa/eric1.gif"
+  },
+  {
+    nome: "Maxwell- Fortunate",
+    arquivo: "musicas/Fortunate.mp3",
+    capa: "capa/max.gif"
+  },
+  {
+    nome: "Muddy Watters - Baby, Please Don t Go",
+    arquivo: "musicas/Baby, Please Don t Go (Live).mp3",
+    capa: "capa/mudd.gif"
+  },
+  {
+    nome: "Freddie Mercury and Michael Jackson - There Must Be More to Life Than This Golden",
+    arquivo: "musicas/Freddie Mercury and Michael Jackson - There Must Be More to Life Than This Golden Duet.mp3",
+    capa: "capa/michael e fred.jpg"
+  },
+  {
+    nome: "Maxwell - Ascension (Don t Ever Wonder)",
+    arquivo: "musicas/Maxwell - Ascension (Don t Ever Wonder) (Official 4K Video).mp3",
+    capa: "capa/max1.gif"
+  },
+  {
+    nome: "Brian - One Last Cry.mp3",
+    arquivo: "musicas/One Last Cry.mp3",
+    capa: "capa/brian.jpg"
+  },
+ 
 
 ];
 
@@ -253,6 +291,10 @@ const imagensFundo = [
   'Fundo do site/sol.gif',
   'Fundo do site/tunel.gif',
   'Fundo do site/vocal.gif',
+  'Fundo do site/minion.gif',
+  'Fundo do site/minion1.gif',
+  'Fundo do site/disco.gif',
+  'Fundo do site/expectador.gif',
 
 
 
