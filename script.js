@@ -279,7 +279,56 @@ const musicas = [
     arquivo: "musicas/One Last Cry.mp3",
     capa: "capa/brian.jpg"
   },
- 
+  {
+    nome: "Maroon 5 - Moves Like Jagger",
+    arquivo: "musicas/Moves Like Jagger - Maroon 5 featuring Christina Aguilera.mp3",
+    capa: "capa/maroon_5_feat_christina_aguilera.jpg"
+  },
+  {
+    nome: "Backstreet Boys - Everybody",
+    arquivo: "musicas/Backstreet Boys - Everybody (Backstreet s Back) (Lyrics).mp3",
+    capa: "capa/every.gif"
+  },
+  {
+    nome: "Chris brown - Gimme That",
+    arquivo: "musicas/Gimme That.mp3",
+    capa: "capa/gimme.gif"
+  },
+  {
+    nome: " Janet Jackson - No Sleeep (feat. J. Cole)",
+    arquivo: "musicas/No Sleeep (feat. J. Cole).mp3",
+    capa: "capa/janet.gif"
+  },
+  {
+    nome: "Justin Timberlake - No Angels",
+    arquivo: "musicas/Justin Timberlake - No Angels (Official Video).mp3",
+    capa: "capa/justin.jpg"
+  },
+  {
+    nome: "Mariah Carey - Angels Cry (Official Music Video) ft. Ne-Yo",
+    arquivo: "musicas/Mariah Carey - Angels Cry (Official Music Video) ft. Ne-Yo.mp3",
+    capa: "capa/angelscry.jpg"
+  },
+  {
+    nome: "Ne-Yo one in a million ",
+    arquivo: "musicas/Ne-Yo one in a million HQ.mp3",
+    capa: "capa/neyo.jpg"
+  },
+  {
+    nome: "Usher - Moving Mountains",
+    arquivo: "musicas/Usher - Moving Mountains.mp3",
+    capa: "capa/usher.jpg"
+  },
+  {
+    nome: "VAHTANG - Black Betty ",
+    arquivo: "musicas/VAHTANG - Black Betty.mp3",
+    capa: "capa/vah.jpg"
+  },
+  {
+    nome: "Teddy Swims - Lose Control ",
+    arquivo: "musicas/Teddy Swims - Lose Control (Live).mp3",
+    capa: "capa/teddy.jpg"
+  },
 
 ];
 
