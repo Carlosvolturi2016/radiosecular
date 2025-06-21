@@ -70,11 +70,7 @@ const musicas = [
     arquivo: "musicas/18.- I Feel It Coming (Feat. Daft Punk).flac",
     capa: "capa/feel.gif"
   },
-  {
-    nome: "Michael Bublé - Fever",
-    arquivo: "musicas/05. Fever.flac",
-    capa: "capa/fever.gif"
-  },
+ 
   {
     nome: "Michael Jackson - Man in the Mirror",
     arquivo: "musicas/Michael Jackson - Man in the Mirror.mp3",
@@ -395,8 +391,9 @@ const imagensFundo = [
     "Fundo do site/casa.gif",
     "Fundo do site/car1.gif",
     "Fundo do site/chuva.gif",
+     "Fundo do site/road.gif",
     "Fundo do site/noite.gif",
-    "Fundo do site/road.gif",
+   
 
 
 
