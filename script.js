@@ -330,12 +330,57 @@ const musicas = [
     capa: "capa/teddy.jpg"
   },
 
+
+  {
+    nome: "The Black Eyed Peas - Imma Be ",
+    arquivo: "musicas/The Black Eyed Peas - Imma Be (Official Music Video).mp3",
+    capa: "capa/immabe.jpg"
+  },
+
+   {
+    nome: "Guns N' Roses - Sweet Child O' Mine ",
+    arquivo: "musicas/Guns N' Roses - Sweet Child O' Mine (Official Music Video) (1).mp3",
+    capa: "capa/Guns N Roses.jpg"
+  },
+   {
+    nome: "Just Once -James Ingram ",
+    arquivo: "musicas/Just Once (New Version).mp3",
+    capa: "capa/james.jpg"
+  },
+   {
+    nome: "Pitbull - Give Me Everything ft. Ne-Yo",
+    arquivo: "musicas/Pitbull - Give Me Everything ft. Ne-Yo, Afrojack, Nayer.mp3",
+    capa: "capa/pitbul.jpg"
+  },
+
+     {
+    nome: "The Black Eyed Peas - Don’t Stop The Party",
+    arquivo: "musicas/The Black Eyed Peas - Don’t Stop The Party.mp3",
+    capa: "capa/black.jpg"
+  },
+     {
+    nome: "Easy - Lionel Richie",
+    arquivo: "musicas/Easy.mp3",
+    capa: "capa/easy.jpg"
+  },
+     {
+    nome: "Usher - Yeah!",
+    arquivo: "musicas/Usher - Yeah! (Official Video) ft. Lil Jon, Ludacris.mp3",
+    capa: "capa/yeah.gif"
+  },
+
 ];
 
 
 
 // Array com os caminhos das imagens de fundo
 const imagensFundo = [
+
+
+  "Fundo do site/galaxy.gif",
+ "Fundo do site/descida.gif",
+  'Fundo do site/portal.gif',
+  'Fundo do site/flash.gif',
   'Fundo do site/luz.gif',
   'Fundo do site/sol.gif',
   'Fundo do site/tunel.gif',
@@ -344,6 +389,14 @@ const imagensFundo = [
   'Fundo do site/minion1.gif',
   'Fundo do site/disco.gif',
   'Fundo do site/expectador.gif',
+   'Fundo do site/car.gif',
+    'Fundo do site/batida.gif',
+    "Fundo do site/dance.gif",
+    "Fundo do site/casa.gif",
+    "Fundo do site/car1.gif",
+    "Fundo do site/chuva.gif",
+    "Fundo do site/noite.gif",
+    "Fundo do site/road.gif",
 
 
 
